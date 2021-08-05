@@ -1,1 +1,4 @@
-es
+body{
+    font-family: 'Trebuchet MS', Helvetica sans-serif;
+    background: #643d87 url(./img/fundo.jpg) no-repeat top center;
+}
